@@ -1,5 +1,9 @@
 # Grupo de Estudos de Programação para Programadoras
 
+*Propósito*
+Para mulheres que já atuam como na área de desenvolvimento de software, se reunam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
+
+    
 Este é o repositório de material gerado por este grupo.
 
 ## Encontro 1 02/02/2016
@@ -56,4 +60,9 @@ Bluemix IBM
 
 Usabilidade e acessibilidade 
 
+Apoio
+[Lambda3](http://www.lambda3.com.br/)
+
+Patrocínio
+![todas-logos-pequeno](https://cloud.githubusercontent.com/assets/3089882/13027741/635b69fe-d242-11e5-9904-1227e7bf3ee5.png)
 
