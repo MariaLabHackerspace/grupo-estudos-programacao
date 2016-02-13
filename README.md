@@ -1,12 +1,13 @@
 # Grupo de Estudos de Programação para Programadoras
+Este é o repositório de material gerado por este grupo.
+
+http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 **Propósito**
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
     
-Este é o repositório de material gerado por este grupo.
-
 ## Encontro 2 16/02/2016
 * Cap.1 e 2 do Clean Code:Nomes Significativos.
 * Trazer exemplos bons e maus. 
@@ -21,10 +22,9 @@ Agenda do dia:
 * Brainstorm de conteúdos para estudo (5 minutos)
 * Roadmap dos conteúdos e grupo (10 minutos)
 * Encerramento, ROI, networking
-* 
 
-http://188.166.18.203:8002/p/marialab-grupo-estudos-programacao
-
+`
+arrumar em um arquivo separado na reuniao 2
 
 Brainstorm e expectativas
 
@@ -64,6 +64,14 @@ Tecnologias mobile
 Bluemix IBM 
 
 Usabilidade e acessibilidade 
+`
+
+##Bibliografia Sugerida:
+*O ideal é escolher livros com seções de perguntas e propostas para discussões em cada capítulo*
+    
+ * “Clean Code: A Handbook of Agile Software Craftsmanship”, Robert C. Martin
+ * "Code Complete", by Steve McConnell
+ * "Refactoring", by Martin Fowler  
 
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
