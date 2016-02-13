@@ -7,6 +7,10 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
     
 Este é o repositório de material gerado por este grupo.
 
+## Encontro 2 16/02/2016
+* Cap.1 e 2 do Clean Code:Nomes Significativos.
+* Trazer exemplos bons e maus. 
+
 ## Encontro 1 02/02/2016
 
 Agenda do dia:
