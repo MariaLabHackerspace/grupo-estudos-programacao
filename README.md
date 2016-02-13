@@ -2,7 +2,7 @@
 
 **Propósito**
 
-Para mulheres que já atuam como na área de desenvolvimento de software, se reunam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
+Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
     
 Este é o repositório de material gerado por este grupo.
