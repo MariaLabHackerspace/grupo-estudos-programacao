@@ -61,9 +61,13 @@ Bluemix IBM
 
 Usabilidade e acessibilidade 
 
-Apoio
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+**Apoio**
+
 [Lambda3](http://www.lambda3.com.br/)
 
-Patrocínio
+**Patrocínio**
+
 ![todas-logos-pequeno](https://cloud.githubusercontent.com/assets/3089882/13027741/635b69fe-d242-11e5-9904-1227e7bf3ee5.png)
 
