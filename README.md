@@ -1,6 +1,7 @@
 # Grupo de Estudos de Programação para Programadoras
 
-*Propósito*
+**Propósito**
+
 Para mulheres que já atuam como na área de desenvolvimento de software, se reunam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
     
