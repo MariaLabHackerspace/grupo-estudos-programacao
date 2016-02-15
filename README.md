@@ -77,7 +77,7 @@ Usabilidade e acessibilidade
 
 **Apoio**
 
-[<http://www.lambda3.com.br/images/logo.png">](http://www.lambda3.com.br/)
+[http://www.lambda3.com.br/images/logo.png](http://www.lambda3.com.br/)
 
 **Patrocínio**
 
