@@ -7,7 +7,11 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
-    
+
+## Encontro 3 01/03/2016
+* Cap.3 Funções
+* Cap.6 Objetos e estrutura de dados
+
 ## Encontro 2 16/02/2016
 * Cap.1 e 2 do Clean Code:Nomes Significativos.
 * Trazer exemplos bons e maus. 
