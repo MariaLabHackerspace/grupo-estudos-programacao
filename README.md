@@ -8,7 +8,7 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
 
-## Encontro 3 01/03/2016
+## Encontro 3 08/03/2016
 * Cap.3 Funções
 * Cap.6 Objetos e estrutura de dados
 
@@ -27,48 +27,30 @@ Agenda do dia:
 * Roadmap dos conteúdos e grupo (10 minutos)
 * Encerramento, ROI, networking
 
-`
-arrumar em um arquivo separado na reuniao 2
 
-Brainstorm e expectativas
+## Ideias para estudo:
 
-Até o fim do semestre, quais as expectativas?
+* Tecnologias de frontend para também comparar ou auxiliar o backend
+* Entregar alguma no fim do semestre
+* Padrões de projeto
+* Estruturar o projeto
+* Como começar um projeto do zero?
+* Principios Solid
+* Injeção de dependencia
+* DDD
+* Estudar outras linguagens: python, ruby
+* Testes em typescript
+* Testes com frontend
+* Aprender Angular
+* Angular js animations
+* Tecnologias mobile
+* Bluemix IBM 
+* Usabilidade e acessibilidade
 
-Tecnologias de frontend para tambem comparar ou auxiliar o backend
-
-Entregar alguma no fim do semestre
-
-Padrões de projeto
-
-Estruturar o projeto
-
-Como começar um projeto do zero?
-
-Principios Solid
-
-Injeção de dependencia
-
-DDD
-
-Estudar outras linguagens: python, ruby
-
-Testes em typescript
-
-Testes com frontend
-
-Aprender Angular
-
+## Links úteis
 Referencias
-https://www.packtpub.com/packt/offers/free-learning
-Code School Tutorial
-Angular js animations
-
-Tecnologias mobile
-
-Bluemix IBM 
-
-Usabilidade e acessibilidade 
-`
+[Packtpub](https://www.packtpub.com/packt/offers/free-learning)
+[Code School](https://www.codeschool.com/)
 
 ##Bibliografia Sugerida:
 *O ideal é escolher livros com seções de perguntas e propostas para discussões em cada capítulo*
