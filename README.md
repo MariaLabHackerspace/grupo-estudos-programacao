@@ -63,7 +63,7 @@ Referencias
 
 **Apoio**
 
-![Lambda3](http://www.lambda3.com.br/images/logo.png)
+![Lambda3](https://cloud.githubusercontent.com/assets/3089882/13440762/82669efc-dfd2-11e5-95fe-077d7a6d9e9d.png)
 
 **Patrocínio**
 
