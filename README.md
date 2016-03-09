@@ -7,6 +7,10 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
+## Encontro 4 22/03/2016
+* Cap.10 Classes
+* Dojo: Começar um projeto. Sugestão: typescript
+
 
 ## Encontro 3 08/03/2016
 * Cap.3 Funções
