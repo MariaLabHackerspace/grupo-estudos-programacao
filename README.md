@@ -11,6 +11,8 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 * Cap.10 Classes
 * Dojo: Começar um projeto. Sugestão: typescript
 
+Referência: [Dojo Puzzles](http://dojopuzzles.com/)
+
 
 ## Encontro 3 08/03/2016
 * Cap.3 Funções
