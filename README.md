@@ -10,6 +10,7 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 ## Encontro 5 05/04/2016
 * Bate-papo sobre [Typescript](http://www.typescriptlang.org/)
 * Vamos escolher um desafio no [Dojo Puzzles](http://dojopuzzles.com/) e resolvermos juntas.
+* Sugestões: [Escolhendo uma pizza](http://dojopuzzles.com/problemas/exibe/escolhendo-uma-pizza/) || [Descubra o assassino](http://dojopuzzles.com/problemas/exibe/descubra-o-assassino/) 
 
 ## Encontro 4 22/03/2016
 * Cap.10 Classes
