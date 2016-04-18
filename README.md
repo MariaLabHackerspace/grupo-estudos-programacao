@@ -7,6 +7,9 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
+## Encontro 6 19/04/2016
+* Rodada de refactor no dojo
+
 ## Encontro 5 05/04/2016
 * Bate-papo sobre [Typescript](http://www.typescriptlang.org/)
 * Vamos escolher um desafio no [Dojo Puzzles](http://dojopuzzles.com/) e resolvermos juntas.
