@@ -7,8 +7,13 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
+## Encontro 7 03/05/2016
+* Testes automatizados, conceitos: TDD, DDD, Integração, Aceitação
+* Rodada de rafactor no dojo
+
 ## Encontro 6 19/04/2016
 * Rodada de refactor no dojo
+* Criar ambiente de testes com jasmine
 
 ## Encontro 5 05/04/2016
 * Bate-papo sobre [Typescript](http://www.typescriptlang.org/)
