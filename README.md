@@ -10,6 +10,7 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 ## Encontro 7 03/05/2016
 * Testes automatizados, conceitos: TDD, DDD, Integração, Aceitação
 * Rodada de rafactor no dojo
+* Referência: https://www.casadocodigo.com.br/products/livro-tdd
 
 ## Encontro 6 19/04/2016
 * Rodada de refactor no dojo
