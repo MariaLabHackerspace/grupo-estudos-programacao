@@ -10,6 +10,7 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 ## Encontro 8 17/05/2016
 * Ideias para organizar um evento o/
 * Oficina de Arduino :D
+* Kit Arduino: https://www.robocore.net/modules.php?name=GR_LojaVirtual&prod=105
 
 ## Encontro 7 03/05/2016
 * Testes automatizados, conceitos: TDD, DDD, Integração, Aceitação
