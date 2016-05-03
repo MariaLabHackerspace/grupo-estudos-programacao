@@ -7,6 +7,10 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
+## Encontro 8 17/05/2016
+* Ideias para organizar um evento o/
+* Oficina de Arduino :D
+
 ## Encontro 7 03/05/2016
 * Testes automatizados, conceitos: TDD, DDD, Integração, Aceitação
 * Rodada de rafactor no dojo
