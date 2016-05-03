@@ -14,3 +14,6 @@ Ferramentas: Selenium, SpecFlow, FluentAssertions
 **Testes de regreção:**
 Garantir o que está sendo implementado não está quebrando o código legado que não tem testes unitários
 
+
+##Apendice
+[Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter)
