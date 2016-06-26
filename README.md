@@ -7,7 +7,7 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
-## Econtros Futuros:
+## Próximos Econtros:
 ### Encontro 11 28/06/2016
 * SOLID:
     * Referências: [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)
