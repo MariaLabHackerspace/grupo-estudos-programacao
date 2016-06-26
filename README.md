@@ -48,8 +48,8 @@ Git avançado
 ## Encontros Passados:
 
 ### Encontro 10 14/06/2016
-Planejamento dos eventos
-Planejamento de conteúdo dos próxímos encontros
+* Planejamento dos eventos
+* Planejamento de conteúdo dos próximos encontros
 
 ### Encontro 9 31/05/2016
 Participamos do evento [UPWIT - Unlocking the Power of Women In Technology](https://www.facebook.com/UPWIT-477061995818192/?fref=ts)
