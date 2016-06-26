@@ -7,6 +7,53 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
+#Econtros Futuros:
+## Encontro 11 28/06/2016
+* SOLID:
+    * Referências: [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)
+
+## Encontro 12 12/07/2016
+*Padrões*
+* Sigleton
+* Factory
+* Template Method
+
+## Encontro 13 26/07/2016
+Frontend
+* HTML5
+* CSS3 
+* Responsividade
+* LESS & SASS
+* Bootstrap
+* Acessibilidade
+
+## Encontro 14 09/08/2016
+Convidar Carla
+* Hacking
+* Segurança da informação
+
+## Encontro 15 23/08/2016
+Testes automatizados
+
+
+## Encontro 16 06/09/2016
+Git avançado
+
+## Encontro 17 20/09/2016
+* BI
+* Dataware house
+* Data mining
+* Big Data
+
+#Encontros Passados:
+
+## Encontro 10 14/06/2016
+Planejamento dos eventos
+Planejamento de conteúdo dos próxímos encontros
+
+## Encontro 9 31/05/2016
+Participamos do evento [UPWIT - Unlocking the Power of Women In Technology](https://www.facebook.com/UPWIT-477061995818192/?fref=ts)
+
 ## Encontro 8 17/05/2016
 * Ideias para organizar um evento o/
 * Oficina de Arduino :D
@@ -72,6 +119,7 @@ Agenda do dia:
 * Tecnologias mobile
 * Bluemix IBM 
 * Usabilidade e acessibilidade
+* NoSQL
 
 ## Links úteis
 Referencias
