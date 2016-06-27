@@ -117,9 +117,9 @@ Agenda do dia:
 * Aprender Angular
 * Angular js animations
 * Tecnologias mobile
-* Bluemix IBM 
 * Usabilidade e acessibilidade
 * NoSQL
+* Docker
 
 ## Links úteis
 Referencias
@@ -138,8 +138,6 @@ Referencias
 **Apoio**
 
 ![Lambda3](https://cloud.githubusercontent.com/assets/3089882/13440762/82669efc-dfd2-11e5-95fe-077d7a6d9e9d.png)
-
-**Patrocínio**
 
 ![todas-logos-pequeno](https://cloud.githubusercontent.com/assets/3089882/13027741/635b69fe-d242-11e5-9904-1227e7bf3ee5.png)
 
