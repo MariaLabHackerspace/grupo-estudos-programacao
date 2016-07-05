@@ -7,18 +7,24 @@ http://vedetas.org:8002/p/marialab-grupo-estudos-programacao
 
 Para mulheres que já atuam como na área de desenvolvimento de software, se reúnam para trocar conhecimento e estudarem bibliografias referências para se tornarem desenvolvedoras ainda melhores.
 
+**Formato**
+* Encontros de 15 em 15 dias
+* Duração 1h 30m
+* Horário das 19h às 20:30
+* Terças-feiras
+
 ## Próximos Encontros:
-### Encontro 11 05/07/2016
+### Encontro 11 19/07/2016
 * SOLID:
     * Referências: [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)
 
-### Encontro 12 19/07/2016
+### Encontro 12 
 *Padrões*
 * Sigleton
 * Factory
 * Template Method
 
-### Encontro 13 02/08/2016
+### Encontro 13 
 Frontend
 * HTML5
 * CSS3 
@@ -27,19 +33,19 @@ Frontend
 * Bootstrap
 * Acessibilidade
 
-### Encontro 14 16/08/2016
+### Encontro 14 
 Convidar Carla
 * Hacking
 * Segurança da informação
 
-### Encontro 15 30/08/2016
+### Encontro 15 
 Testes automatizados
 
 
-### Encontro 16 13/09/2016
+### Encontro 16 
 Git avançado
 
-### Encontro 17 27/09/2016
+### Encontro 17 
 * BI
 * Dataware house
 * Data mining
