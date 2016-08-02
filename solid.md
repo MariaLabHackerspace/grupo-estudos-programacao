@@ -16,7 +16,7 @@
 - Aberto para extensão e fechado para modificação
 - Herança e Polimorfismo
 - Abstração
-- Feature Envy
+- Feature Envy  
 Exemplos: http://eduardopires.net.br/2013/05/open-closed-principle-ocp/      
 
 
@@ -26,7 +26,7 @@ Exemplos: http://eduardopires.net.br/2013/05/open-closed-principle-ocp/
 - Restrições de entrada e saída
     Entrada menos restritiva que a classe base
     Saída mais restritiva que a classe base
-- Classes filhas devem respeitar o contrato da classe base
+- Classes filhas devem respeitar o contrato da classe base  
 Exemplos: http://ntakashi.net/lsp/
 
 
