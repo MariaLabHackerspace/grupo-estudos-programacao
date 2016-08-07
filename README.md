@@ -14,11 +14,7 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 * Terças-feiras
 
 ## Próximos Encontros:
-### Encontro 11 19/07/2016
-* SOLID:
-    * Referências: [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)
-
-### Encontro 12 
+### Encontro 12 16/08/2016
 *Padrões*
 * Sigleton
 * Factory
@@ -52,6 +48,10 @@ Git avançado
 * Big Data
 
 ## Encontros Passados:
+### Encontro 11 02/08/2016
+* SOLID:
+    * Referências: [Orientação a Objetos e SOLID para Ninjas](https://www.casadocodigo.com.br/products/livro-oo-solid)
+    * Material gerado: [solid.md](https://github.com/MariaLabHackerspace/grupo-estudos-programacao/blob/master/solid.md)
 
 ### Encontro 10 14/06/2016
 * Planejamento dos eventos
