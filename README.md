@@ -19,6 +19,9 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 * Sigleton
 * Factory
 * Template Method
+* Referências:   
+      * [Princípios, Padrões e Práticas Ágeis em C#](https://www.amazon.com/Princ%C3%ADpios-Padr%C3%B5es-Pr%C3%A1ticas-Portuguese-Brasil/dp/8577808416) 
+      * [Design Patterns com Java](https://www.casadocodigo.com.br/products/livro-design-patterns)
 
 ### Encontro 13 
 Frontend
