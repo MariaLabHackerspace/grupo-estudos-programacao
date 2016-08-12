@@ -22,6 +22,7 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 * Referências:   
       * [Princípios, Padrões e Práticas Ágeis em C#](https://www.amazon.com/Princ%C3%ADpios-Padr%C3%B5es-Pr%C3%A1ticas-Portuguese-Brasil/dp/8577808416) 
       * [Design Patterns com Java](https://www.casadocodigo.com.br/products/livro-design-patterns)
+      * Factory: (https://brizeno.wordpress.com/category/padroes-de-projeto/factory-method/)      
 
 ### Encontro 13 
 Frontend
