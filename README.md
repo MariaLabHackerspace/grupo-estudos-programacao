@@ -22,6 +22,13 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 * Referências:   
       * [Princípios, Padrões e Práticas Ágeis em C#](https://www.amazon.com/Princ%C3%ADpios-Padr%C3%B5es-Pr%C3%A1ticas-Portuguese-Brasil/dp/8577808416) 
       * [Design Patterns com Java](https://www.casadocodigo.com.br/products/livro-design-patterns)
+      * Factory: 
+      *   https://brizeno.wordpress.com/category/padroes-de-projeto/factory-method/
+      *   http://www.devmedia.com.br/padrao-de-projeto-factory-method-em-java/26348
+      * Singleton: 
+      *   http://www.linhadecodigo.com.br/artigo/3397/singleton-padrao-de-projeto-com-microsoft-net-c-sharp.aspx
+      *   https://brizeno.wordpress.com/category/padroes-de-projeto/singleton/
+      *   http://www.paulocollares.com.br/2012/08/exemplo-do-padrao-de-projeto-singleton-o-forever-alone-do-desing-patterns/
 
 ### Encontro 13 
 Frontend
