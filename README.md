@@ -14,7 +14,7 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 * Terças-feiras
 
 ## Próximos Encontros:
-### Encontro 12 16/08/2016
+### Encontro 12 13/09/2016
 *Padrões*
 * Sigleton
 * Factory
