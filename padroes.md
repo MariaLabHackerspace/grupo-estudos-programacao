@@ -3,7 +3,7 @@
 Para projeto com poucas instâncias, uma única instancia é feita.  
 Contras: gera uma dependencia muito grande, e geralmente é feito por classe bem tipada  
 Prós: ele simplifica o acesso a mesma instancia, garante consistência  
-O método getInstance() geralmente indetifica o uso do padrão
+O método getInstance() geralmente indentifica o uso do padrão
 
 Exemplo: [fonte Paulo Collares](http://www.paulocollares.com.br/2012/08/exemplo-do-padrao-de-projeto-singleton-o-forever-alone-do-desing-patterns/)
 
@@ -36,3 +36,12 @@ public class Configuracao {
 
 }
 </code>
+
+
+##Factory Method
+ Este padrão permite a criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada. Fonte: (Wikipedia)[https://pt.wikipedia.org/wiki/Abstract_Factory]
+ 
+ Referência de exemplo de código:
+ https://brizeno.wordpress.com/category/padroes-de-projeto/factory-method/
+ 
+ ##Template Method
