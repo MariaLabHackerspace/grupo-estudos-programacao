@@ -45,7 +45,8 @@ Convidar Carla
 * Segurança da informação
 
 ### Encontro 15 
-Testes automatizados
+Testes automatizados  
+Referencias: http://pt.slideshare.net/samantacicilia/importancia-de-testes-automatizados-para-sustentar-continuous-delivery-devops
 
 
 ### Encontro 16 
