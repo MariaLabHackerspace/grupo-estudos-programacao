@@ -15,7 +15,10 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 
 ## Próximos Encontros:
 
-### Encontro 13  04/10/2016
+### Encontro 13  13/10/2016
+Typescript + Dojo
+
+### Encontro 14  
 Frontend
 * HTML5
 * CSS3 
@@ -24,12 +27,12 @@ Frontend
 * Bootstrap
 * Acessibilidade
 
-### Encontro 14 
+### Encontro 15 
 Convidar Carla
 * Hacking
 * Segurança da informação
 
-### Encontro 15 
+### Encontro 16 
 Testes automatizados  
 Referencias: http://pt.slideshare.net/samantacicilia/importancia-de-testes-automatizados-para-sustentar-continuous-delivery-devops
 
