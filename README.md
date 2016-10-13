@@ -17,7 +17,10 @@ Para mulheres que já atuam como na área de desenvolvimento de software, se re�
 
 ### Encontro 13  13/10/2016
 Typescript + Dojo  
-Referência: [Tableless - Adeus ao JS](http://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/)
+Referência: [Tableless - Adeus ao JS](http://tableless.com.br/diga-ola-ao-typescript-e-adeus-ao-javascript/)  
+Sugestões:  
+* http://dojopuzzles.com/problemas/exibe/fizzbuzz/  
+* http://dojopuzzles.com/problemas/exibe/encontre-o-telefone/
 
 ### Encontro 14  
 Frontend
