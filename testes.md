@@ -1,4 +1,4 @@
-##Testes automatizados
+## Testes automatizados
 
 **Unidade**
 Você testa a menor parte possível
@@ -15,5 +15,5 @@ Ferramentas: Selenium, SpecFlow, FluentAssertions
 Garantir o que está sendo implementado não está quebrando o código legado que não tem testes unitários
 
 
-##Apendice
+## Apendice
 [Nyan Cat RSpec Formatter](https://github.com/mattsears/nyan-cat-formatter)
