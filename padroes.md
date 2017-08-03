@@ -1,4 +1,4 @@
-##Singleton
+## Singleton
 
 Para projeto com poucas instâncias, uma única instancia é feita.  
 Contras: gera uma dependencia muito grande, e geralmente é feito por classe bem tipada  
@@ -38,10 +38,10 @@ public class Configuracao {
 </code>
 
 
-##Factory Method
+## Factory Method
  Este padrão permite a criação de famílias de objetos relacionados ou dependentes por meio de uma única interface e sem que a classe concreta seja especificada. Fonte: (Wikipedia)[https://pt.wikipedia.org/wiki/Abstract_Factory]
  
  Referência de exemplo de código:
  https://brizeno.wordpress.com/category/padroes-de-projeto/factory-method/
  
- ##Template Method
+ ## Template Method
